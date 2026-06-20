@@ -1,4 +1,5 @@
-# Customer Shopping Behavior Analysis (SQL, Python, and Power BI)
+# Customer Shopping Behavior Analysis 
+# (SQL, Python, and Power BI)
 
 ## Overview
 

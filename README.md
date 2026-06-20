@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis using SQL, Python, and Power BI
+# Customer Shopping Behavior Analysis using SQL, Python & Power BI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)

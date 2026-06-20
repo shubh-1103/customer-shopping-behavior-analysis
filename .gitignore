@@ -1,0 +1,6 @@
+desktop.ini
+*.tmp
+*.bak
+__pycache__/
+.ipynb_checkpoints/
+.vscode/

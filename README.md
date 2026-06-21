@@ -288,6 +288,7 @@ Customer_Shopping_Behaviour_Analysis
 
 - LinkedIn: www.linkedin.com/in/shubhamjadhav10
 - GitHub: https://github.com/shubh-1103
+- E-mail : shubhamjadhav2115@gmail.com
 ---
 
 ## 📜 License

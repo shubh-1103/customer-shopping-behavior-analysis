@@ -267,7 +267,6 @@ Customer_Shopping_Behaviour_Analysis
 │   └── Customer_Behavior_SQL_Query.sql
 │
 ├── README.md
-├── Project_Report.pdf
 ├── LICENSE
 ├── requirements.txt
 └── .gitignore
